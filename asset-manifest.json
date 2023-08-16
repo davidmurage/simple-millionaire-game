@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/davidmurage.githu.io/simple-millionaire-game/static/css/main.76e6ac6c.css",
+    "main.js": "/davidmurage.githu.io/simple-millionaire-game/static/js/main.4e9a9c37.js",
+    "static/js/845.3088b2a2.chunk.js": "/davidmurage.githu.io/simple-millionaire-game/static/js/845.3088b2a2.chunk.js",
+    "static/media/bg.jpg": "/davidmurage.githu.io/simple-millionaire-game/static/media/bg.c137ccd722d64133b4df.jpg",
+    "static/media/play.mp3": "/davidmurage.githu.io/simple-millionaire-game/static/media/play.8e5f6d1d81d4e1414b95.mp3",
+    "static/media/correct.mp3": "/davidmurage.githu.io/simple-millionaire-game/static/media/correct.160572d72c858155072e.mp3",
+    "static/media/wrong.mp3": "/davidmurage.githu.io/simple-millionaire-game/static/media/wrong.e946821894ae9b0a0d6f.mp3",
+    "index.html": "/davidmurage.githu.io/simple-millionaire-game/index.html",
+    "main.76e6ac6c.css.map": "/davidmurage.githu.io/simple-millionaire-game/static/css/main.76e6ac6c.css.map",
+    "main.4e9a9c37.js.map": "/davidmurage.githu.io/simple-millionaire-game/static/js/main.4e9a9c37.js.map",
+    "845.3088b2a2.chunk.js.map": "/davidmurage.githu.io/simple-millionaire-game/static/js/845.3088b2a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76e6ac6c.css",
+    "static/js/main.4e9a9c37.js"
+  ]
+}
